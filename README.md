@@ -55,15 +55,16 @@ git commit -a -m "actualizar repo con .gitignore y README"
 
 Nota: `git commit -a` es como hacer un add y un commit al mismo tiempo
 
-# Sincronizando repos
+# Ejercicio 2
 
+Sincronizando repos
 
+Actualizar el archivo README.md directamente en GitHub.
+
+Luego hacer `git pull` en replit:
 ```
-$ git push origin main
-
-
+$ git pull origin master
 ```
-$ git pull origin main
 
 
 
