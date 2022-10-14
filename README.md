@@ -62,9 +62,24 @@ Sincronizando repos
 Actualizar el archivo README.md directamente en GitHub.
 
 Luego hacer `git pull` en replit:
+
 ```
 $ git pull origin master
 ```
+
+Luego modificar el archivo README.md en REPLIT
+
+Normalmente deberían hacer:
+
+```
+$ git push origin master
+```
+
+Pero GitHub ha deshabilitado el push usando https.
+Así que usen la interfaz de git de Replit presinando el boton `Commit All & Push ->`
+
+
+
 
 
 
