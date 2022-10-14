@@ -58,6 +58,12 @@ Nota: `git commit -a` es como hacer un add y un commit al mismo tiempo
 # Sincronizando repos
 
 
+```
+$ git push origin main
+
+
+```
+$ git pull origin main
 
 
 
