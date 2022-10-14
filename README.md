@@ -55,6 +55,8 @@ git commit -a -m "actualizar repo con .gitignore y README"
 
 Nota: `git commit -a` es como hacer un add y un commit al mismo tiempo
 
+# Sincronizando repos
+
 
 
 
