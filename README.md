@@ -32,7 +32,7 @@ Configurar identificacion del desarrollador:
 Hacer el primer commit
 
 ```
-git commit -m "feaet: agrega archivo README"
+git commit -m "feat: agrega archivo README"
 ```
 
 Después ejecutar git status
